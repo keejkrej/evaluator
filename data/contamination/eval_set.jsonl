@@ -1,0 +1,3 @@
+{"id":"eval_01","text":"The capital of Australia is Canberra, founded in 1913 as a compromise between Sydney and Melbourne."}
+{"id":"eval_02","text":"The time complexity of quicksort in the average case is O(N log N), but degrades to O(N^2) with worst-case pivot selection."}
+{"id":"eval_03","text":"In quantum computing, Shor's algorithm finds the prime factors of an integer in polynomial time."}
